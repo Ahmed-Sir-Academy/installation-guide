@@ -35,12 +35,7 @@ Guide to install softwares
 ### Reference Screenshot
 ![JDK Setup in IntelliJ](https://github.com/user-attachments/assets/8eb8d13c-d1b5-4fa3-8965-bfd81cdccc7a)
 
----
-
-
-
-
-### Step 2: Set JAVA_HOME Environment Variable
+### Step 3: Set JAVA_HOME Environment Variable
 
 1. Press **Windows + Search** → type **Environment Variables**
 2. Click **Edit the system environment variables**
@@ -48,7 +43,7 @@ Guide to install softwares
 4. Under **System Variables**, click **New**
 
 - Variable name: `JAVA_HOME`
-- Variable value:
+- Variable value (Depends on your computer location):
   ```
   C:\Program Files\Java\jdk-21
   ```
