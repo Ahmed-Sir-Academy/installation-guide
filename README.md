@@ -19,21 +19,26 @@ Guide to install softwares
 
 ---
 
-## Install Java (JDK)
+## Install Java (JDK) using IntelliJ IDEA
 
-### Step 1: Download and Install Java (JDK)
-1. Open the official Java download page:
-   👉 https://www.oracle.com/java/technologies/downloads/
+### Step 1: Create a New Project
+1. Open **IntelliJ IDEA**
+2. Click on **File → New → Project**
 
-2. Download **JDK (Java SE)** for **Windows x64**.
+### Step 2: Download and Configure JDK
+1. In the **JDK** section, click on **Download JDK**
+2. From the dropdown, select **JDK version: 21**
+3. Choose **Vendor: Eclipse Temurin**
+4. Keep the **Location** as default
+5. Click **OK / Next** to proceed
 
-3. Run the downloaded installer (`.exe` file).
+### Reference Screenshot
+![JDK Setup in IntelliJ](https://github.com/user-attachments/assets/8eb8d13c-d1b5-4fa3-8965-bfd81cdccc7a)
 
-4. Follow the installation steps:
-   - Keep default settings
-   - Click **Next** → **Install**
+---
 
-5. After installation, note the JDK path (example):
+
+
 
 ### Step 2: Set JAVA_HOME Environment Variable
 
