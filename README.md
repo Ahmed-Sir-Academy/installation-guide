@@ -53,3 +53,38 @@ Guide to install softwares
 
 ---
 
+## Download / Create a Maven Project using IntelliJ IDEA
+
+### Step 1: Create New Project
+1. Open **IntelliJ IDEA**
+2. Click on **File → New → Project**
+
+### Step 2: Select Maven
+1. From the left panel, select **Maven**
+2. Select **Project SDK** (JDK 17 or JDK 21)
+3. Check **Create from Archetype** (optional for beginners)
+4. Click **Next**
+
+### Step 3: Project Details
+1. Enter **GroupId**  
+   Example: `com.ahmedsiracademy`
+2. Enter **ArtifactId**  
+   Example: `maven-demo`
+3. Version will auto-generate (keep default)
+4. Click **Next**
+
+### Step 4: Maven Settings
+1. **Maven Home Path**: Select **Bundled (Maven 3.x)**  
+   _(Recommended – no manual download needed)_
+2. **User Settings File**: Leave default
+3. **Local Repository**: Leave default
+4. Click **Finish**
+
+### Step 5: Maven Dependencies Download
+- IntelliJ will automatically download:
+  - Maven
+  - Required plugins
+  - Dependencies
+- Wait until indexing completes
+
+---
