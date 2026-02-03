@@ -93,26 +93,17 @@ Guide to install softwares
 # Install PostgreSQL on Windows
 
 ## Step 1: Download PostgreSQL
-
 1. Open the official PostgreSQL website:
    👉 [Click here to install PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-
 2. Click **Download the installer**.
-
 3. You will be redirected to **EDB (EnterpriseDB)** website.
    - Download the latest **Windows x64** installer.
-
 ## Step 2: Run the Installer
-
 1. Double-click the downloaded `.exe` file.
 2. Click **Next** on the setup wizard.
-
 ## Step 3: Choose Installation Directory
-
 1. Keep the default path (recommended):
-
 ## Step 4: Enter password as `admin123` for user name `postgres`
-
 ## Step 5: Leave the default port `5432`
 
 
