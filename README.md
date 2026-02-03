@@ -24,7 +24,7 @@ Guide to install softwares
 ### Step 1: Create a New Project
 1. Open **IntelliJ IDEA**
 2. Click on **File → New → Project**
-
+   
 ### Step 2: Download and Configure JDK
 1. In the **JDK** section, click on **Download JDK**
 2. From the dropdown, select **JDK version: 21**
@@ -115,9 +115,4 @@ Guide to install softwares
 
 ## Step 5: Leave the default port `5432`
 
----
 
-
-
-
----
